@@ -80,7 +80,6 @@ It includes YTD vs PYTD comparisons, profitability segmentation, and monthly per
 ---
 
 ## 🗂️ Folder Structure
-
 powerbi-plant-co
 │
 ├── data
@@ -101,7 +100,6 @@ powerbi-plant-co
 │
 ├── LICENSE
 └── README.md
-
 
 ---
 
