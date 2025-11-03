@@ -1,0 +1,18 @@
+Dataset: Plant_DTS.xls
+Source: Synthetic dataset created for Power BI performance analysis
+
+Columns:
+- Product_ID: unique product identifier
+- Sales_USD: sales amount in USD
+- Quantity: number of units sold
+- Price_USD: unit price in USD
+- COGS_USD: cost of goods sold
+- Date_Time: transaction date
+
+Scope:
+- Time period: 2022–2024
+- Regions: multiple countries
+- Products: 10 product types
+
+Used for:
+Power BI dashboards analyzing Sales, Quantity, and Gross Profit (YTD vs PYTD).
