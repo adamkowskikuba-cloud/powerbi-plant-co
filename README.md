@@ -67,6 +67,27 @@ The Power BI report (`Performance Report.pbix`) includes three main sections —
 
 ## 🗂️ Folder Structure
 
+📁 Plant_Co_Performance
+│
+├── 📄 README.md
+│
+├── 📊 powerbi/
+│   └── Performance Report.pbix
+│
+├── 📊 data/
+│   └── Plant_DTS.xls
+│
+├── 📈 visuals/
+│   ├── Performance Report 2023 sales.pdf
+│   ├── Performance Report 2023 quantity.pdf
+│   ├── Performance Report 2023 gross profit.pdf
+│   ├── Performance Report 2024 sales.pdf
+│   ├── Performance Report 2024 quantity.pdf
+│   └── Performance Report 2024 gross profit.pdf
+│
+└── 📁 docs/ 
+    └── (optional project documentation)
+
 ---
 
 ## 💬 Conclusions
