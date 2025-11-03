@@ -83,24 +83,26 @@ It includes YTD vs PYTD comparisons, profitability segmentation, and monthly per
 
 📁 powerbi-plant-co
 │
-├── 📄 README.md
-├── 📄 LICENSE
-│
-├── 📊 data/
+├── 📁 data
+│   ├── .gitkeep
 │   ├── Plant_DTS.xls
 │   └── data_description.txt
 │
-├── 📊 powerbi/
+├── 📁 powerbi
+│   ├── .gitkeep
 │   └── Performance Report.pbix
 │
-├── 📈 visuals/
+├── 📁 visuals
+│   ├── .gitkeep
 │   ├── Performance Report 2023 gross profit.pdf
 │   ├── Performance Report 2023 quantity.pdf
 │   ├── Performance Report 2023 sales.pdf
 │   ├── Performance Report 2024 gross profit.pdf
 │   ├── Performance Report 2024 quantity.pdf
-│   ├── Performance Report 2024 sales.pdf
+│   └── Performance Report 2024 sales.pdf
 │   └── dashboard_preview.png
+├── LICENSE
+└── README.md
 
 ---
 
