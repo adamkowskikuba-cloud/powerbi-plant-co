@@ -57,6 +57,20 @@ The Power BI report (`Performance Report.pbix`) includes three main sections —
 
 ---
 
+## 📸 Dashboard Visual
+
+The Power BI dashboard visualizes the main KPIs of Plant Co. — **Sales, Quantity, and Gross Profit** across different countries and product types.  
+It includes YTD vs PYTD comparisons, profitability segmentation, and monthly performance trends.
+
+| Overview of Power BI Dashboard |
+|:-------------------------------:|
+| ![Plant Co Dashboard Preview](https://github.com/adamkowskikuba-cloud/powerbi-plant-co/raw/main/visuals/dashboard_preview.png) |
+
+> *This image illustrates the main layout of the Power BI report, showing YTD vs PYTD performance, top and bottom countries, and GP% segmentation.*  
+> *For detailed visuals, check the PDF exports in the [visuals/](./visuals) folder.*
+
+---
+
 ## 🧮 Tools & Techniques
 - **Power BI** – Data modeling, DAX calculations, KPI visuals.  
 - **Microsoft Excel** – Data cleaning and transformation.  
@@ -69,23 +83,24 @@ The Power BI report (`Performance Report.pbix`) includes three main sections —
 
 📁 powerbi-plant-co
 │
-├── 📁 data
+├── 📄 README.md
+├── 📄 LICENSE
+│
+├── 📊 data/
 │   ├── Plant_DTS.xls
 │   └── data_description.txt
 │
-├── 📁 powerbi
+├── 📊 powerbi/
 │   └── Performance Report.pbix
 │
-├── 📁 visuals
+├── 📈 visuals/
 │   ├── Performance Report 2023 gross profit.pdf
 │   ├── Performance Report 2023 quantity.pdf
 │   ├── Performance Report 2023 sales.pdf
 │   ├── Performance Report 2024 gross profit.pdf
 │   ├── Performance Report 2024 quantity.pdf
-│   └── Performance Report 2024 sales.pdf
-│
-├── LICENSE
-└── README.md
+│   ├── Performance Report 2024 sales.pdf
+│   └── dashboard_preview.png
 
 ---
 
